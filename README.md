@@ -1,29 +1,27 @@
-# vs-code-settings
-Visual Studio Code editors necessary extensions, documents and settings formula is stored there.
-Extensions
+# VS Code Settings
 
 1.Live Server - ritwik dey
-2.ES Lint - Dirk Baeumer
-3.Prettier - Code formatter - Esben Petersen
-4.vscode-icons - VSCode Icons Team
-5.Path Autocomplete - Mihai Vilcu
-6.Turbo Console Log - ChakrounAnas
-7.ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
-8.Dracula Official - Dracula Theme
-9.Auto Rename Tag - Jun Han
-10.Andromeda - Eliver Lara
-11.Emoji Snippets - Devzstudio
-12.Community Material Theme - Mattia Astorino
-13.Apollo GraphQL
-14.Bracket Pair Colorizer - CoenraadS
-15.JavaScript (ES6) code snippets - charalampos
-16.JavaScript and TypeScript Nightly
-17.Material Icon Theme
-18.Material Theme
-19.material theme icons
-20.Mithril Emmet support for VS Code
-21.mustache
-22.Simple React Snippets
-23.Tailwind CSS IntelliSense
-24.TSLint
-25.vscode-styled-components
+3.ES Lint - Dirk Baeumer
+4.Prettier - Code formatter - Esben Petersen
+5.vscode-icons - VSCode Icons Team
+6.Path Autocomplete - Mihai Vilcu
+7.Turbo Console Log - ChakrounAnas
+8.ES7 React/Redux/GraphQL/React-Native snippets - dsznajder
+9.Dracula Official - Dracula Theme
+10.Auto Rename Tag - Jun Han
+11.Andromeda - Eliver Lara
+12.Emoji Snippets - Devzstudio
+13.Community Material Theme - Mattia Astorino
+14.Apollo GraphQL
+15.Bracket Pair Colorizer - CoenraadS
+16.JavaScript (ES6) code snippets - charalampos
+17.JavaScript and TypeScript Nightly
+18.Material Icon Theme
+19.Material Theme
+20.material theme icons
+21.Mithril Emmet support for VS Code
+22.mustache
+23.Simple React Snippets
+24.Tailwind CSS IntelliSense
+25.TSLint
+26.vscode-styled-components
