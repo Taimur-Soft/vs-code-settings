@@ -1,7 +1,6 @@
 # VS Code Settings
 
 1.Live Server - ritwik dey
-
 3.ES Lint - Dirk Baeumer
 4.Prettier - Code formatter - Esben Petersen
 5.vscode-icons - VSCode Icons Team
